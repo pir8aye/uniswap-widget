@@ -34,6 +34,5 @@ export const GlobalStyle = createGlobalStyle`
     justify-content: center;
     align-items: center;
     overflow-y: auto;
-    background-color: red;
   }
 `
